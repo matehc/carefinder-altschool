@@ -5,13 +5,10 @@ Carefinder allows users to search for hospitals within their region. Users can i
 ```
 Here's some notes about my submission:
 
-1. A link to the project repository  https://github.com/olatunde1998/carefinder-app
+1. A link to the project repository  https://github.com/matehc/carefinder-altschool
 
-2. A publicly live hosted URL of the challenge https://carefinder-app.vercel.app/ 
+2. A publicly live hosted URL of the challenge https://carefinder-altschool.vercel.app/
 
-Thank you very much AltSchool Africa.
-Best regards
-Rasheed Olatunde
 
 ```
 # Technologies 
@@ -33,7 +30,7 @@ Rasheed Olatunde
 # How to Contribute
 
 1. Clone the repository 
-$ git clone [https://github.com/olatunde1998/carefinder-app](https://github.com/olatunde1998/carefinder-app)
+$ git clone [https://github.com/matehc/carefinder-altschool](https://github.com/matehc/carefinder-altschool)
 
 2. Change directory into the cloned folder and run the setup script
 $ cd carefinder-app
@@ -50,7 +47,7 @@ Vercel was used to deploy the app.
  + [Vercel](https://vercel.com/dashboard)
 
 # License
-The MIT License - Copyright (c) 2023 - Present, rasheed-olatunde altschool capstone project/  Storage Service.
+The MIT License - Copyright (c) 2023 - Present, Lucas Chetam Okafor altschool capstone project/  Storage Service.
 
 # Author
-Rasheed Olatunde (Frontend AltSchooler)
+Lucas Chetam Okafor (Frontend AltSchooler)
